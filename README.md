@@ -1,8 +1,8 @@
 # Medical Symptoms Text Classification
-Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves. The most common is type 2 diabetes, usually in adults, which occurs when the body becomes resistant to insulin or doesn't make enough insulin. In the past three decades the prevalence of type 2 diabetes has risen dramatically in countries of all income levels. Type 1 diabetes, once known as juvenile diabetes or insulin-dependent diabetes, is a chronic condition in which the pancreas produces little or no insulin by itself. For people living with diabetes, access to affordable treatment, including insulin, is critical to their survival. There is a globally agreed target to halt the rise in diabetes and obesity by 2025.
+The adoption of natural language processing in healthcare is rising because of its recognized potential to search, analyze and interpret mammoth amounts of patient datasets. Using advanced medical algorithms, machine learning in healthcare and NLP technology services have the potential to harness relevant insights and concepts from data that was previously considered buried in text form. NLP in healthcare media can accurately give voice to the unstructured data of the healthcare universe, giving incredible insight into understanding quality, improving methods, and better results for patients.
 
 <p align="center">
-<img src="https://northmemorial.com/wp-content/uploads/2016/10/Diabetes-illustration.png"/>
+<img src="https://emerj.com/wp-content/uploads/2018/10/data-mining-medical-records-with-machine-learning-5-current-applications.png"/>
 </p>
 
 About 422 million people worldwide have diabetes, the majority living in low-and middle-income countries, and 1.6 million deaths are directly attributed to diabetes each year. Both the number of cases and the prevalence of diabetes have been steadily increasing over the past few decades.
