@@ -33,3 +33,4 @@ This dataset contains both the audio utterances and corresponding transcription.
 * https://www.foreseemed.com/natural-language-processing-in-healthcare
 * https://appen.com/datasets/audio-recording-and-transcription-for-medical-scenarios/
 * https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent
+* https://towardsdatascience.com/medical-text-analytic-techniques-and-its-applications-c7419c7c1f6
