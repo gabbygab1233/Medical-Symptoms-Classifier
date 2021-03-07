@@ -4,7 +4,7 @@
 The adoption of natural language processing in healthcare is rising because of its recognized potential to search, analyze and interpret mammoth amounts of patient datasets. Using advanced medical algorithms, machine learning in healthcare and NLP technology services have the potential to harness relevant insights and concepts from data that was previously considered buried in text form. NLP in healthcare media can accurately give voice to the unstructured data of the healthcare universe, giving incredible insight into understanding quality, improving methods, and better results for patients.
 
 <p align="center">
-<img src="https://emerj.com/wp-content/uploads/2018/10/data-mining-medical-records-with-machine-learning-5-current-applications.png"/>
+<img src="https://www.ong2zero.org/en/files/2018/05/ehr-1476525_1280-1030x818.png" height=500/>
 </p>
 
 
