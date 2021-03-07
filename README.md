@@ -18,6 +18,10 @@ This dataset contains both the audio utterances and corresponding transcription.
 
    
   # [Demo](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
+  
+This web app uses machine learning to classify medical text according to the category of the ailment being described.
+
+The model can classify 25 ailments ( Emotional pain, Hair falling out, Head hurts, Infected wound, Foot achne, Shoulder pain, Injury from sports, Skin issue, Stomach ache, Knee pain, Joint pain, Hard to breath, Head ache, Body feels weak, Feeling dizzy, Back pain, Open wounds, Internal pain, Blurry vision, Acne, Muscle pain, Neck pain, Cough, Ear ache, Feeling cold ).
  
   Live demo: https://medical-symptoms-classifier.herokuapp.com/
   
