@@ -29,7 +29,7 @@ This dataset contains both the audio utterances and corresponding transcription.
     * ROC_AUC Score: 92 %
    
   # [Demo](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
-  
+  This web app uses machine learning to classify medical text according to the category of the ailment being described.
   ![](https://i.imgur.com/SJPzebD.png)
 
 # References
