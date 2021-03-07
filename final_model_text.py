@@ -17,10 +17,9 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 
+nltk.download('stopwords') 
+nltk.download('wordnet')
 
-
-#nltk.download('stopwords') 
-#nltk.download('wordnet')
 sns.set(style='whitegrid')
 
 warnings.filterwarnings('ignore')
@@ -95,6 +94,8 @@ classification_metrics(model, y_test, y_pred)
 
 save_model(model, 'model.pkl')
 
+save_model(vec, 'vectorizer.pkl')
+
 
 def detectAilment(text):
     pred = [text]
@@ -159,4 +160,3 @@ while True:
     except ValueError:
        print ('Invalid')
        continue
-
