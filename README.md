@@ -8,7 +8,7 @@ The adoption of natural language processing in healthcare is rising because of i
 </p>
 
 
-# [Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
+# [Dataset](https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent.)
 This [Dataset](https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent) contains thousands of audio utterances for common medical symptoms like “knee pain” or “headache,” totaling more than 8 hours in aggregate. Each utterance was created by individual human contributors based on a given symptom. These audio snippets can be used to train conversational agents in the medical field.
 
 This dataset was created via a multi-job workflow. The first involved contributors writing text phrases to describe symptoms given. For example, for “headache,” a contributor might write “I need help with my migraines.” Subsequent jobs captured audio utterances for accepted text strings.
@@ -17,7 +17,7 @@ This dataset contains both the audio utterances and corresponding transcription.
 
 
    
-  # [Demo](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
+  # [Demo](https://medical-symptoms-classifier.herokuapp.com/)
   
 This web app uses machine learning to classify medical text according to the category of the ailment being described.
 
