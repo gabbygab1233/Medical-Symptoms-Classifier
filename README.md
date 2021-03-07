@@ -27,10 +27,14 @@ This dataset contains both the audio utterances and corresponding transcription.
  * **Performance Results**
     * Validation Score: 96%
     * ROC_AUC Score: 92 %
-    
+   
+  # [Demo](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
+  
+  ![](https://i.imgur.com/SJPzebD.png)
 
 # References
 * https://www.foreseemed.com/natural-language-processing-in-healthcare
 * https://appen.com/datasets/audio-recording-and-transcription-for-medical-scenarios/
 * https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent
 * https://towardsdatascience.com/medical-text-analytic-techniques-and-its-applications-c7419c7c1f6
+* https://github.com/Jcharis/Streamlit_DataScience_Apps/tree/master/news_classifier_nlp-app
