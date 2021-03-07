@@ -1,10 +1,11 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabbygab1233%2FMedical-Symptoms-Classifier&count_bg=%23A21B23&title_bg=%23115BB0&icon=&icon_color=%23E7E7E7&title=Medical+Symptoms+Classifier&edge_flat=true)](https://hits.seeyoufarm.com)
+
 # Medical Symptoms Text Classification
 The adoption of natural language processing in healthcare is rising because of its recognized potential to search, analyze and interpret mammoth amounts of patient datasets. Using advanced medical algorithms, machine learning in healthcare and NLP technology services have the potential to harness relevant insights and concepts from data that was previously considered buried in text form. NLP in healthcare media can accurately give voice to the unstructured data of the healthcare universe, giving incredible insight into understanding quality, improving methods, and better results for patients.
 
 <p align="center">
 <img src="https://emerj.com/wp-content/uploads/2018/10/data-mining-medical-records-with-machine-learning-5-current-applications.png"/>
 </p>
-
 
 
 # [Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
@@ -14,22 +15,12 @@ This dataset was created via a multi-job workflow. The first involved contributo
 
 This dataset contains both the audio utterances and corresponding transcription. 
 
-### [Experiment Results:](http://)
-* **Data Analysis**
-    * Age column contains outliers
-    * There's 269 duplicates data
- * **Performance Evaluation**
-    * Splitting the dataset by 80 % for training set and 20 % validation set.
- * **Training and Validation**
-    * Extra Trees Classifier has a higher accuracy score than the other models achieving 93 %
- * **Fine Tuning**
-    * Using  {'criterion': 'entropy', 'max_depth': 15, 'max_features': 'sqrt', 'n_estimators': 10} for Extra Trees Classifier improved the accuracy by 1 %.
- * **Performance Results**
-    * Validation Score: 96%
-    * ROC_AUC Score: 92 %
+
    
   # [Demo](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
-  This web app uses machine learning to classify medical text according to the category of the ailment being described.
+ 
+  Live demo: https://medical-symptoms-classifier.herokuapp.com/
+  
   ![](https://i.imgur.com/SJPzebD.png)
 
 # References
