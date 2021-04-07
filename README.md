@@ -24,6 +24,7 @@ This web app uses machine learning to classify medical text according to the cat
 The model can classify 25 ailments ( Emotional pain, Hair falling out, Head hurts, Infected wound, Foot achne, Shoulder pain, Injury from sports, Skin issue, Stomach ache, Knee pain, Joint pain, Hard to breath, Head ache, Body feels weak, Feeling dizzy, Back pain, Open wounds, Internal pain, Blurry vision, Acne, Muscle pain, Neck pain, Cough, Ear ache, Feeling cold ).
 
   Notebook: https://www.kaggle.com/gabbygab/medical-symptoms-text-classification-web-app
+  
   Live demo: https://medical-symptoms-classifier.herokuapp.com/
   
   ![](https://i.imgur.com/SJPzebD.png)
